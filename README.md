@@ -1,10 +1,10 @@
 # dr_detection
 
-A new Flutter project.
+A final year project.
 
-## Getting Started
+## Smartphone Based Detection of Diabetic Retinopathy
 
-This project is a starting point for a Flutter application.
+This mobile application is the final outcome of the FYP. It takes an image identifies it as retinal or non-retinal image and proceeds to Diabetic Retinopathy (DR) detection for retinal images.
 
 A few resources to get you started if this is your first Flutter project:
 
